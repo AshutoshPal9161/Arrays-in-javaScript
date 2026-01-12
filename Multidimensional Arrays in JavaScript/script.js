@@ -10,3 +10,4 @@ const ticTacToe = [
     [null, null, 'O'],
     ['O', null, 'X']
 ]
+console.log(nameAndNumberList);
